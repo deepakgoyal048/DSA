@@ -7,6 +7,7 @@ Question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepakgoyal048/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/deepakgoyal048/DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/deepakgoyal048/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/deepakgoyal048/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/deepakgoyal048/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -21,4 +22,8 @@ Question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/deepakgoyal048/DSA/tree/main/0189-rotate-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/deepakgoyal048/DSA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
